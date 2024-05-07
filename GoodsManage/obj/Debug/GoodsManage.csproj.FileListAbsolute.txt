@@ -1,0 +1,55 @@
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\bin\Debug\GoodsManage.exe.config
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\obj\Debug\GoodsManage.GoodsInfoManage.resources
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\obj\Debug\GoodsManage.GoodsInManage.resources
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\obj\Debug\GoodsManage.GoodsManageMain.resources
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\obj\Debug\GoodsManage.GoodsOutManage.resources
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\obj\Debug\GoodsManage.GoodsStatic.resources
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\obj\Debug\GoodsManage.Properties.Resources.resources
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\obj\Debug\GoodsManage.csproj.GenerateResource.Cache
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\bin\Debug\GoodsManage.exe
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\bin\Debug\GoodsManage.pdb
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\bin\Debug\EntityFramework.dll
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\bin\Debug\EntityFramework.SqlServer.dll
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\bin\Debug\EntityFramework.xml
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\bin\Debug\EntityFramework.SqlServer.xml
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\obj\Debug\GoodsManage.exe
+D:\教材\基于C#的管理信息系统开发\第二版\新建文件夹\GoodsManage\obj\Debug\GoodsManage.pdb
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\bin\Debug\GoodsManage.exe.config
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\obj\Debug\GoodsManage.exe
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\obj\Debug\GoodsManage.pdb
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\bin\Debug\GoodsManage.exe
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\bin\Debug\GoodsManage.pdb
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\bin\Debug\EntityFramework.dll
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\bin\Debug\EntityFramework.SqlServer.dll
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\bin\Debug\EntityFramework.xml
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\bin\Debug\EntityFramework.SqlServer.xml
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\obj\Debug\GoodsManage.csprojResolveAssemblyReference.cache
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\obj\Debug\GoodsManage.GoodsInfoManage.resources
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\obj\Debug\GoodsManage.GoodsInManage.resources
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\obj\Debug\GoodsManage.GoodsManageMain.resources
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\obj\Debug\GoodsManage.GoodsOutManage.resources
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\obj\Debug\GoodsManage.GoodsStatic.resources
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\obj\Debug\GoodsManage.Properties.Resources.resources
+E:\教材建设\基于C#的管理信息系统开发\第二版\GoodsManager\GoodsManage\obj\Debug\GoodsManage.csproj.GenerateResource.Cache
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\bin\Debug\GoodsManage.exe.config
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\bin\Debug\GoodsManage.exe
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\bin\Debug\GoodsManage.pdb
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\bin\Debug\EntityFramework.dll
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\bin\Debug\EntityFramework.xml
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\obj\Debug\GoodsManage.csproj.AssemblyReference.cache
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\obj\Debug\GoodsManage.GoodsInfoManage.resources
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\obj\Debug\GoodsManage.GoodsInManage.resources
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\obj\Debug\GoodsManage.GoodsManageMain.resources
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\obj\Debug\GoodsManage.GoodsOutManage.resources
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\obj\Debug\GoodsManage.GoodsStatic.resources
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\obj\Debug\GoodsManage.Properties.Resources.resources
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\obj\Debug\GoodsManage.csproj.GenerateResource.cache
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\obj\Debug\GoodsManage.csproj.CoreCompileInputs.cache
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\obj\Debug\GoodsManage.csproj.CopyComplete
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\obj\Debug\GoodsManage.exe
+C:\Users\26926\Desktop\基于C#的管理信息系统开发代码\第7章 超市商品进销存管理系统\GoodsManager\GoodsManage\obj\Debug\GoodsManage.pdb
